@@ -1,2 +1,3 @@
-# blog-theme
-MapRoulette blog theme.
+# MapRoulette Blog Theme
+
+Veloce Child Theme for MapRoulette.
