@@ -10,7 +10,7 @@ It's recommended you setup a local instance of Wordpress and install the `Veloce
 
 ```bash
 cd wp-content/themes/
-git clone git@github.com:maproulette/blog-theme.git
+git clone git@github.com:maproulette/blog-theme.git maproulette
 ```
 
 ### Directory Structure
